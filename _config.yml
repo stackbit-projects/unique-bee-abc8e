@@ -84,3 +84,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://unique-bee-abc8e.netlify.app'
