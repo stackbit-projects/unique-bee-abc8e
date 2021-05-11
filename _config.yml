@@ -64,7 +64,7 @@ footer:
     - label: GitHub
       url: 'https://github.com/'
       style: icon
-      icon_class: github
+      icon_class: dev
       new_window: true
 sass:
   indentWidth: 4
